@@ -15,15 +15,16 @@ Web_image.jpg
 ---
 
 ✨ Features
-🎧 Spotify-inspired user interface
-📂 Sidebar with Home, Search, and Library sections
-🎵 Music player with playback controls
-📀 Album artwork and song details
-📋 Playlist and artist cards
-📌 Sticky navigation bar
-📱 Responsive design using CSS media queries
-⭐ Modern layout using Flexbox
----
+
+- 🎧 Spotify-inspired user interface
+- 🏠 Home and Search navigation
+- 📚 Your Library section
+- 🎵 Music player with playback controls
+- 💿 Album artwork and song details
+- 📀 Playlist and Artist cards
+- 📌 Sticky navigation bar
+- 📱 Responsive design using CSS Flexbox and Media Queries
+- 🎨 Modern dark theme
 
 🛠️ Technologies Used
 HTML5
